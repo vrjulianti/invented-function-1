@@ -5,10 +5,9 @@ Introduction
 ------------
 
 This is my invented code for Learning Journal unit 2 in CS 1101-01 Programming Fundamentals (University of The People). This project is an opportunity for me to demonstrate the concepts I learned in the unit:
-* Function
-* Variable
-* Expression
-* Statement
+* Examine the role of arguments and parameters in Python functions.
+* Integrate Python variables, operators, and expressions to do calculations.
+* Create Python functions that take arguments.
 
 Description
 -----------
